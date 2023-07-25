@@ -20,11 +20,6 @@ const App = () => {
 
   const renderNotConnectedContainer = () => (
     <div>
-      <img
-        src="https://media.tenor.com/1mJ-tJSzvwsAAAAd/solana-sol.gif"
-        alt="emoji"
-      />
-
       <div className="button-container">
         <WalletMultiButton className="cta-button connect-wallet-button" />
       </div>
