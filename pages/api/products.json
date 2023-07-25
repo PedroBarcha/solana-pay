@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Ovitos fritos",
+    "price": "0.03",
+    "image_url": "https://cloudflare-ipfs.com/ipfs/QmdZzoDf6z2m4wQXPGrCbte2ghFmwbeTmt6GCYEoeGr9gq",
+    "description": "Uma homenagem ao prato mais bonito que já existiu: um ovo frito bem-feito.",
+    "qty": "3",
+    "filename": "content",
+    "hash": "QmPjJbnawVYMfjpeHjcnc5LiY5rztdkVwa2o3gZtxZdqqG"
+  },
+  {
+    "id": 2,
+    "name": "Gimp",
+    "price": "0.05",
+    "image_url": "https://cloudflare-ipfs.com/ipfs/Qmd4VzSFrnhE3btMHNCzRK6vaWGj6xhNh9SUiVKmmfyDBn",
+    "description": "Uma coleção peculiar de artes trash feitas no gimp.",
+    "qty": "5",
+    "filename": "QmYDfCkWRJGaPb5iceZt2mop2TB9y9Mzu1jYp39gjDY3sS",
+    "hash": "QmYDfCkWRJGaPb5iceZt2mop2TB9y9Mzu1jYp39gjDY3sS"
+  },
+  {
+    "id": 3,
+    "name": "Material de Japonês",
+    "price": "0.05",
+    "image_url": "https://cloudflare-ipfs.com/ipfs/QmSja8q9xQPqio36zw29PHfnW3hfWckp45SppVE2L7K7pH",
+    "description": "Dicas para quem está aprendendo japonês!",
+    "qty": "5",
+    "filename": "QmU8PKm4P1A2YYTJoWxPcWvSsGnCmHr9sXPsLv6yVBA6hC",
+    "hash": "QmU8PKm4P1A2YYTJoWxPcWvSsGnCmHr9sXPsLv6yVBA6hC"
+  }
+]
