@@ -2,7 +2,7 @@
 
 ## Site
 
-https://solana-5wfonirao-pedrobarcha1.vercel.app/
+https://solana-pay-beryl.vercel.app/
 
 ## Rede utilizada
 
